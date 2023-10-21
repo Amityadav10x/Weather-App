@@ -1,0 +1,91 @@
+body {
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+   
+  
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+
+.container {
+    padding: 20px;
+}
+
+.card {
+    margin: 10px;
+    padding: 20px;
+}
+
+#submit {
+    background-color: rgb(100, 118, 237);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#submit:hover {
+    background-color: #608dd4; 
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid #d17171;
+}
+
+th {
+    background-color: #2b2bae;
+}
+
+.navbar {
+    background-color: rgb(221, 223, 229);
+}
+
+.navbar-brand {
+    color: rgb(165, 117, 117);
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: 
+    #ff00cc #333399;
+}
+
+.navbar-toggler-icon {
+    background-color: rgb(129, 39, 156);
+}
+
+.card {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #4f44b6;
+}
+
+
+.dropdown-menu {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+}
+
+.dropdown-item {
+    color: #a740a0;
+}
+
+.dropdown-item:hover {
+    background-color: #7fabbf;
+}
